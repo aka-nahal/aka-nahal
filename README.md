@@ -8,38 +8,36 @@
    <img src="https://lanyard.cnrad.dev/api/443309440410583060"  />
   </a>
     <br><br>
-  <p>A Mechatronics Enginnering Student At <a href"https://cuchd.in/">Chandigrah University</a> </p> 
+  <p>𝗔 𝗠𝗲𝗰𝗵𝗮𝘁𝗿𝗼𝗻𝗶𝗰𝘀 𝗘𝗻𝗴𝗶𝗻𝗻𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝘁 <a href="https://www.cuchd.in/">𝑪𝒉𝒂𝒏𝒅𝒊𝒈𝒂𝒓𝒉 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚.</a> </p> 
 
-  <p>𝒾𝓀𝑒𝓃𝒶𝒾 𝒷𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒</p>
-  <p>𝒩𝒶𝓃'𝒾 𝒹𝑜 𝒢 𝒹𝑒𝓂𝑜</p>
-<p>𝒮𝓊𝒷𝑒𝓉𝑒 𝓀𝑜𝓌𝒶𝓈𝒽𝒾𝓉𝑒 𝓂𝒾𝓈𝑒𝓇𝓊</p>
-<p><a href="https://www.youtube.com/watch?v=_WXNeFygGME">- 𝐼𝓀𝑒𝓃𝒶𝒾 𝐵𝑜𝓇𝒹𝑒𝓇𝓁𝒾𝓃𝑒 (𝒲𝒶𝓁𝓀𝓊𝓇𝑒)</a><p>
+  <p>"𝕁𝕦𝕤𝕥 𝔸𝕟 𝔸𝕟𝕠𝕥𝕙𝕖𝕣 𝕎𝕖𝕖𝕓 𝕎𝕙𝕠 ℙ𝕣𝕠𝕘𝕣𝕒𝕞 𝕊𝕥𝕦𝕗𝕗𝕤 𝔸𝕟𝕕 𝕎𝕒𝕤𝕥𝕖 𝕋𝕚𝕞𝕖 ℙ𝕣𝕠𝕗𝕖𝕤𝕤𝕚𝕠𝕟𝕒𝕝𝕝𝕪."</p>
+  <p></p>
   
 </div>
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 🤖 ~ αвσυт мє ~ 🤖 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://giffiles.alphacoders.com/132/13267.gif" align="right">
   </div>
 <li>
- <b>Name:</b> <a href='https://laby.net/@Sorakali' target=_blank>:3</a></li>
+  <b>Name:</b> 𝕹𝖆𝖍𝖆𝖑 <i>(a.k.a) </i>𝕷𝖔𝖓𝖊 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖛𝖊</li>
 <li>
-<b>Fursona:</b> Female Snow Fox
+<b>Status:</b> 🥷🥷🥷 นຖkຖ໐ຟຖ 🥷🥷🥷
 </li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> 🖥anime, 🎶rhythm games, 👨🏼‍💻coding
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> ℌ𝔢/ℌ𝔦𝔪/𝔐𝔞𝔩𝔢 🏳️
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff, App Development, Web Development, Electronics 🤖
 </li>
 <li>
-<b>Working @:</b> Intave Anticheat
+  <b>Working @:</b> <a href="http://flyingminds.agency/">Flying Minds</a> 👨🏻‍💻
 </li>
 <br><br><br>
 </div>
