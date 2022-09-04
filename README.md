@@ -42,7 +42,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 ɨռʄօ 📇 ~</h2>
  <br>
 <p>
   <div align="center">
@@ -56,19 +56,18 @@
 𝙄 𝘼𝙢 𝙎𝙩𝙪𝙙𝙚𝙣𝙩 𝙒𝙝𝙤 𝙇𝙞𝙠𝙚𝙨 𝙏𝙤 𝙒𝙖𝙨𝙩𝙚 𝙏𝙞𝙢𝙚 𝘽𝙮 𝙒𝙖𝙩𝙘𝙝𝙞𝙣𝙜.... 𝘼𝙝𝙚𝙢!! <br> 𝙄 𝙈𝙚𝙖𝙣 𝘽𝙮 𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙒𝙚𝙗𝙨𝙞𝙩𝙚𝙨 𝘼𝙣𝙙 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨.<br> 𝙄 𝘼𝙡𝙨𝙤 𝙇𝙞𝙠𝙚 𝙏𝙤 𝙏𝙞𝙣𝙠𝙚𝙧 𝙒𝙞𝙩𝙝 𝙀𝙡𝙚𝙘𝙩𝙧𝙞𝙘𝙞𝙩𝙮 (𝙉𝙤 𝘿𝙞𝙧𝙚𝙘𝙩𝙡𝙮 𝙊𝙛𝙘!!). <br> 𝙄 𝘼𝙡𝙨𝙤 𝙒𝙖𝙩𝙘𝙝 𝘼𝙣𝙞𝙢𝙚, 𝙍𝙚𝙖𝙙 𝙈𝙖𝙣𝙜𝙖,𝙇𝙞𝙜𝙝𝙩 𝙉𝙤𝙫𝙚𝙡 𝘼𝙣𝙙 𝙑𝙞𝙨𝙪𝙖𝙡 𝙉𝙤𝙫𝙚𝙡.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📡 ~ ƈօռȶǟƈȶ ʍɛ ~ 📡</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://c.tenor.com/JCFncEzU3YEAAAAM/mio-mio-akiyama.gif" width="300" height="200" >
   </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Lillykali%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center">𝑳𝒆𝒂𝒗𝒆 𝑨 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 𝑨𝒏𝒅 𝑳𝒆𝒕'𝒔 𝑪𝒉𝒂𝒕</p>
+<p align="center"> <a href="https://discordid.netlify.app/?id=443309440410583060" target="_blank"><img src="https://img.shields.io/badge/LoneDetective%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a><a href="mailto:me@lonedetective.moe"><img src="https://img.shields.io/badge/Gmail%20-%237289DA.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+<p align="center"></p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h2 align="center">💖 ~ ǟʀɨɢǟȶօ!! ~ 💖</h2>
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
