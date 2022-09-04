@@ -46,7 +46,7 @@
  <br>
 <p>
   <div align="center">
-    <img src="https://c.tenor.com/JW_W9QKUkKoAAAAS/tokyo-revengers.gif" align="right"> </img>
+    <img src="https://c.tenor.com/P9XH077JvtkAAAAC/boy-anime.gif" align="right"> </img>
   </div>
 </div>
 <div>
