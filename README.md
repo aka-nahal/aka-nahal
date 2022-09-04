@@ -71,7 +71,6 @@
 <div align="center">
 <img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
 </div>
-<hr>
 </div>
 </div>
     </center>
