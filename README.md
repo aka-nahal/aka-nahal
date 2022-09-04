@@ -20,7 +20,7 @@
 <div>
 <h2 align="center"> 🤖 ~ αвσυт мє ~ 🤖 </h2>
   <div align="center">
-<img src="https://giffiles.alphacoders.com/132/13267.gif" align="right">
+    <img src="https://c.tenor.com/TKHxcmYuyV8AAAAM/anime-gif-hibike-euphonium.gif" align="right"> </img>
   </div>
 <li>
   <b>Name:</b> 𝕹𝖆𝖍𝖆𝖑 <i>(a.k.a) </i>𝕷𝖔𝖓𝖊 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖛𝖊</li>
