@@ -69,7 +69,7 @@
 <div>
 <h2 align="center">💖 ~ ǟʀɨɢǟȶօ!! ~ 💖</h2>
 <div align="center">
-                   img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-nahal&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false" />
+                   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aka-nahal&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false" />
 </div>
 </div>
 </div>
