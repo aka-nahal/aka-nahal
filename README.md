@@ -58,7 +58,7 @@
 <br>
 <h2 align="center">           📡 ~ ƈօռȶǟƈȶ ʍɛ ~ 📡</h2>
   <div align="center">
-<img src="https://c.tenor.com/JCFncEzU3YEAAAAM/mio-mio-akiyama.gif" width="300" height="200" >
+
   </div>
 <br>
 <p align="center">𝑳𝒆𝒂𝒗𝒆 𝑨 𝑴𝒆𝒔𝒔𝒂𝒈𝒆 𝑨𝒏𝒅 𝑳𝒆𝒕'𝒔 𝑪𝒉𝒂𝒕</p>
