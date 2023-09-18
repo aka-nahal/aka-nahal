@@ -37,7 +37,7 @@
 <b>Hobbys:</b> Tech Stuff, App Development, Web Development, Electronics 🤖
 </li>
 <li>
-  <b>Working @:</b> <a href="http://flyingminds.agency/">Flying Minds</a> 👨🏻‍💻
+  <b>Working @:</b> <a href="http://ffstudios.io/">FutureForge Studios Private Limited</a> 👨🏻‍💻
 </li>
 <br><br><br>
 </div>
