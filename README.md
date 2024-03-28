@@ -1,5 +1,3 @@
-# Welcome to My Profile! 🕵️‍♂️
-
 ## About Me
 - **Name:** 𝕹𝖆𝖍𝖆𝖑 (a.k.a) 𝕷𝖔𝖓𝖊 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖛𝖊
 - **Loves:** 🖥anime, 🎶rhythm games, 👨🏼‍💻coding
