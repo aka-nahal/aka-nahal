@@ -9,7 +9,6 @@
 - Anime
 - Reading Manga
 - Light Novel and Visual Novel
-- Music by Watc
 - Anime, Manga, Light Novel and Visual Novel
 
 ## Contact Me
