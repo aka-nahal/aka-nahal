@@ -2,7 +2,6 @@
 
 ## About Me
 - **Name:** 𝕹𝖆𝖍𝖆𝖑 (a.k.a) 𝕷𝖔𝖓𝖊 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖛𝖊
-- **Status:** 🥷🥷🥷 นຖkຖ໐ຟຖ 🥷🥷🥷
 - **Loves:** 🖥anime, 🎶rhythm games, 👨🏼‍💻coding
 - **Gender:** ℌ𝔢/ℌ𝔦𝔪/𝔐𝔞𝔩𝔢 🏳️
 - **Hobbies:** Tech Stuff, App Development, Web Development, Electronics 🤖
