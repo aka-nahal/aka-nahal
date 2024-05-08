@@ -3,14 +3,13 @@
 - **Loves:** 🖥anime, 🎶rhythm games, 👨🏼‍💻coding
 - **Gender:** ℌ𝔢/ℌ𝔦𝔪/𝔐𝔞𝔩𝔢 🏳️
 - **Hobbies:** Tech Stuff, App Development, Web Development, Electronics 🤖
-- **Working @:** [FutureForge Studios Private Limited](http://ffstudios.io/)
+- **Co-Founder @:** [FutureForge Studios Private Limited](http://ffstudios.io/)
 
 ## Interests
 - Anime
 - Reading Manga
 - Light Novel and Visual Novel
-- Anime, Manga, Light Novel and Visual Novel
-
+- 
 ## Contact Me
 Feel free to reach out to me via Discord or email!
 - Discord: [LoneDetective](https://discordid.netlify.app/?id=443309440410583060)
