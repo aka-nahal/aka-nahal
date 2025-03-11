@@ -19,8 +19,6 @@ I’m a he/him coder 🏳️ who thrives on anime, rhythm games, and building co
   - Electronics 🤖  
 - **Co-Founder @:** [FutureForge Studios Private Limited](http://ffstudios.io/)  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anime&size=20&color=00FF00¢er=true&vCenter=true&width=450&lines=Coding+is+my+Superpower;Anime+is+my+Fuel)
-
 ---
 
 ## Interests  
